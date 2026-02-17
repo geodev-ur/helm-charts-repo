@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   myfirstchart:
   - apiVersion: v2
+    appVersion: 0.3.0
+    created: "2026-02-17T19:06:38.849277704Z"
+    description: A Helm chart for Kubernetes
+    digest: b2c01a21e0b3599ddfdbc012a5890c23910c0418af2e6ac0d9e1012fba986e79
+    name: myfirstchart
+    type: application
+    urls:
+    - https://github.com/geodev-ur/helm-charts-repo/releases/download/myfirstchart-0.3.0/myfirstchart-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
     appVersion: 0.2.0
     created: "2023-08-22T01:49:04.40979385Z"
     description: A Helm chart for Kubernetes
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/stacksimplify/helm-charts-repo/releases/download/myfirstchart-0.1.0/myfirstchart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-08-22T01:49:04.40980535Z"
+generated: "2026-02-17T19:06:38.849290147Z"
